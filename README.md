@@ -2,11 +2,13 @@
 
 
 ## Folder Structure  
+```
 |── models
 │   └── resnet.py  
 ├── utils.py
 ├── main.py
-└── README.md 
+└── README.md
+```
 
 
 ### Models  
